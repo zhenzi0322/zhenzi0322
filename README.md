@@ -10,3 +10,7 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=zhenzi0322&theme=midnight-purple&custom_title=Python颜色转换库" width="49%" height="50%" />
 </a>
 </center>
+
+<a href="https://github.com/zhenzi0322/photo-layout">
+	<img src="https://github-readme-stats.vercel.app/api?username=zhenzi0322&theme=midnight-purple&custom_title=图像排版" width="49%" height="50%" />
+</a>
