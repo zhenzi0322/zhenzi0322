@@ -14,3 +14,7 @@
 <a href="https://github.com/zhenzi0322/Flask-Hmin">
 	<img src="https://github-readme-stats.vercel.app/api?username=zhenzi0322&theme=highcontrast&custom_title=Flask压缩视图HTML" width="49%" height="50%" />
 </a>
+
+<a href="https://github.com/zhenzi0322/screenShot">
+	<img src="https://github-readme-stats.vercel.app/api?username=zhenzi0322&theme=highcontrast&custom_title=前端原生js屏幕截图" width="49%" height="50%" />
+</a>
